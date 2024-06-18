@@ -10,3 +10,6 @@ Animations: Animations when a cell is marked.
 Player Turn Indicator: Displays which player's turn it is.
 Score Tracking: Keeps track of wins for each player.
 Better AI: An AI opponent that blocks the player's winning moves.
+
+![image](https://github.com/Vinit7796/PRODIGY_WD_03/assets/139846053/2299afc5-da09-4d08-bcac-2f62641bffac)
+
